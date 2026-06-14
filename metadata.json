@@ -1,0 +1,8 @@
+{
+  "name": "Atodemic",
+  "description": "Atodemic is an AI-powered Student Operating System to help students plan studies, track progress, and measure exam readiness with personalized AI guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
